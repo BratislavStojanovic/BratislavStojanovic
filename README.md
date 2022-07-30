@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning Laravel, React, Vue, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master Laravel, Vue. Master React, Complete MERN Stack.
+- 🥅 2022 Goals: Master Laravel, Master React, Master MERN Stack.
 - ⚡ Fun fact: I like to listen to music in my free time and exercise in the gym.
 
 
