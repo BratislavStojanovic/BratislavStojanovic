@@ -2,9 +2,9 @@
 
 ## I'm a Full Stack Developer, who love to code!
 
-- 📚 I’m currently learning Laravel, React, Nodejs and Webflow.
+- 📚 I’m currently learning NextJS, React, Webflow.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2023 Goals: Master Laravel, Master React, Master MERN Stack.
+- 🥅 2026 Goals: Master NextJS
 - ⚡ Fun fact: I like to listen to music in my free time and exercise in the gym.
 
 
